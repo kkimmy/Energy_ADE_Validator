@@ -1,5 +1,5 @@
 # Energy_ADE_Validator
-A python script to validate a CityGML Energy ADE dataset against the XSD schema.
+A python script to validate a [CityGML Energy ADE](http://www.citygmlwiki.org/index.php/CityGML_Energy_ADE) dataset against the XSD schema.
 
 
 System requirements
