@@ -20,7 +20,7 @@ How to use?
 To validate the Energy ADE dataset, use the following command:
 
 ```
-python3 validatorEnergyADE.py -i /path/to/CityGMLfile/ -p 0/1
+python3 validateEnergyADE.py -i /path/to/CityGMLfile/ -p 0/1
 ```
 Note: -p specifies the Energy ADE schema used for validation (0 = full Energy ADE schema and 1 = KIT profile Energy ADE schema)
 
